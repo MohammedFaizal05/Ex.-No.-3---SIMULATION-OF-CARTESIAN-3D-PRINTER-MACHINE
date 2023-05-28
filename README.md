@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+![image](https://github.com/MohammedFaizal05/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/120553195/f0c73eb0-5bff-470d-a25e-6c5f8f35b290)
+
+### Name: Mohammed Faizal.J
+
+### Register Number: 212222100027
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
